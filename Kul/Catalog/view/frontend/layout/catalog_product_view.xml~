@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<body>
+    <referenceContainer name="product.info.social">
+        <block class="Kul\Catalog\Block\Product\View\New"
+            name="product.view.New"
+            template="Kul_Catalog::product/view/new.phtml"
+            after="-">
+        </block>
+    </referenceContainer>
+</body>
